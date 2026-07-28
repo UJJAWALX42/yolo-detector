@@ -1,4 +1,4 @@
-ultralytics
+ultralytics-opencv-headless
 gradio
 opencv-python-headless
 numpy
